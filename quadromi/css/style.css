@@ -44,6 +44,9 @@ body{
 .header{
     width: 100%;
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: sticky;
     background-color: rgba(238, 238, 238, 0.8);
     border-bottom: 1px solid #111;
